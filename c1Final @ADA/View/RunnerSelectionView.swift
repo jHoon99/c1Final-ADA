@@ -22,7 +22,7 @@ struct RunnerSelectionView: View {
             VStack {
                 HStack {
                     Text("뭐가 다른거죠?")
-                        .font(.custom("SUIT-Bold", size: 20))
+                        .font(.custom("SUIT-Bold", size: 1))
                     Text(enteredNickname)
                         .font(.custom("SUIT-Bold", size: 24))
                         .foregroundColor(.purple)
