@@ -27,7 +27,7 @@ struct RunnerSelectionView: View {
                         .font(.custom("SUIT-Bold", size: 24))
                         .foregroundColor(.purple)
                     + Text(" 👋")
-                        .font(.custom("SUIT-Regular", size: 24))
+                        .font(.custom("SUIT-Bold", size: 24))
                         .foregroundColor(.black)
                     Spacer()
                 }
