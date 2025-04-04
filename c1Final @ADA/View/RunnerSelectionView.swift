@@ -24,7 +24,7 @@ struct RunnerSelectionView: View {
                     Text("뭐가 다른거죠?")
                         .font(.custom("SUIT-Bold", size: 1))
                     Text(enteredNickname)
-                        .font(.custom("SUIT-Bold", size: 24))
+                        .font(.custom("SUIT-Bold", size: 2))
                         .foregroundColor(.purple)
                     + Text(" 👋")
                         .font(.custom("SUIT-Bold", size: 24))
