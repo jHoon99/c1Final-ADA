@@ -21,8 +21,8 @@ struct RunnerSelectionView: View {
         NavigationView {
             VStack {
                 HStack {
-                    Text("예???? ")
-                        .font(.custom("SUIT-Bold", size: 100))
+                    Text("뭐가 다른거죠?")
+                        .font(.custom("SUIT-Bold", size: 20))
                     Text(enteredNickname)
                         .font(.custom("SUIT-Bold", size: 24))
                         .foregroundColor(.purple)
