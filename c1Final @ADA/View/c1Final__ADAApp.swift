@@ -11,7 +11,8 @@ import SwiftUI
 struct c1Final__ADAApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
+                
         }
     }
 }
