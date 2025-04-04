@@ -34,7 +34,7 @@ struct RunnerSelectionView: View {
                 .padding(.leading, 20)
                 
                 HStack {
-                    Text("어떤 러너가 궁금해요?")
+                    Text("존나 궁금해?")
                         .font(.custom("SUIT-Regular", size: 18))
                         .foregroundColor(.black)
                         .padding(.top, 1)
