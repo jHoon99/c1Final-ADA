@@ -93,8 +93,8 @@ struct RunnerSelectionView: View {
                     showNextScreen = true
                 }) {
                     Text("다음")
-                        .font(.custom("SUIT-Regular", size: 18))
-                        .foregroundColor(.white)
+                        .font(.custom("SUIT-Bold", size: 30))
+                        .foregroundColor(.purple)
                         .frame(maxWidth: .infinity)
                         .padding()
                         .background(selectedRunner != nil ? Color.purple : Color.gray)
